@@ -1,0 +1,70 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram id="yPtXV4XZFwpQ_RSKnga8" name="第 1 页">
+    <mxGraphModel dx="2042" dy="1129" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sTWXRvAB15Agdt9tS1m9-1" target="sTWXRvAB15Agdt9tS1m9-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sTWXRvAB15Agdt9tS1m9-1" target="sTWXRvAB15Agdt9tS1m9-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-1" value="泳池安全监控系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="390" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sTWXRvAB15Agdt9tS1m9-2" target="sTWXRvAB15Agdt9tS1m9-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sTWXRvAB15Agdt9tS1m9-2" target="sTWXRvAB15Agdt9tS1m9-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sTWXRvAB15Agdt9tS1m9-2" target="sTWXRvAB15Agdt9tS1m9-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="sTWXRvAB15Agdt9tS1m9-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-2" value="救生员" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sTWXRvAB15Agdt9tS1m9-5" target="sTWXRvAB15Agdt9tS1m9-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sTWXRvAB15Agdt9tS1m9-5" target="sTWXRvAB15Agdt9tS1m9-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="sTWXRvAB15Agdt9tS1m9-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-5" value="管理员" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-7" value="查看监控系统" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="620" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-10" value="登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="620" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-13" value="修改密码" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="620" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-22" value="查看监控系统" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="620" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-24" value="登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="620" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sTWXRvAB15Agdt9tS1m9-26" value="用户信息管理" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="620" width="80" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
