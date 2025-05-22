@@ -28,8 +28,11 @@
         <mxCell id="fES37ic_3p9enmWg5PLP-8" value="画面中是否有人溺水" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="350" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fES37ic_3p9enmWg5PLP-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fES37ic_3p9enmWg5PLP-10" value="声音报警处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fES37ic_3p9enmWg5PLP-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="528" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
