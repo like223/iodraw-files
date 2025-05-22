@@ -26,7 +26,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fES37ic_3p9enmWg5PLP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fES37ic_3p9enmWg5PLP-8" target="fES37ic_3p9enmWg5PLP-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="400" />
+              <mxPoint x="300" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fES37ic_3p9enmWg5PLP-8" value="画面中是否有人溺水" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="350" width="130" height="110" as="geometry" />
@@ -36,6 +41,9 @@
         </mxCell>
         <mxCell id="fES37ic_3p9enmWg5PLP-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="528" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fES37ic_3p9enmWg5PLP-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
